@@ -1,0 +1,16 @@
+{
+  "doubao_bridge": {
+    "blind": {
+      "endpoint": "https://ark.cn-beijing.volces.com/api/v3/chat/completions",
+      "model": "",
+      "api_key_env": "CHEAT_BLIND_API_KEY",
+      "api_key": ""
+    },
+    "audit": {
+      "endpoint": "https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions",
+      "model": "",
+      "api_key_env": "CHEAT_AUDIT_API_KEY",
+      "api_key": ""
+    }
+  }
+}
