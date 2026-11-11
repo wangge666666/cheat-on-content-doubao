@@ -1,8 +1,8 @@
-# 个人账号升级 · Cheat on Content
+# 个人ip助手
 
 一套运行在 **Codex / Claude Code** 中的内容创作与账号运营技能包。通过持续记录选题、稿件评分、发布前预测和发布后数据，帮助创作者判断哪些内容有效，并逐步调整适合自己账号的评分规则。
 
-豆包工作用户可下载 [可导入技能包](https://github.com/wangge666666/cheat-on-content-doubao/blob/main/packages/cheat-on-content-doubao.zip)，并按 [豆包工作接入说明](integrations/doubao-work/README.md) 配置。源码保留原版功能，新增的接入层位于 `integrations/doubao-work/`。
+豆包工作用户可下载 [个人ip助手安装包](https://github.com/wangge666666/cheat-on-content-doubao/blob/main/packages/cheat-on-content-doubao.zip)，首次导入即显示 **个人ip助手**，并按 [豆包工作接入说明](integrations/doubao-work/README.md) 配置。项目基于 Cheat on Content，源码保留原版功能，新增的接入层位于 `integrations/doubao-work/`。
 
 核心流程：
 
